@@ -1,0 +1,2 @@
+include ':appsexample'
+include 'SlidingMenu', ':engine', ':Sample'
